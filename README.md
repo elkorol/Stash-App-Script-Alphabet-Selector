@@ -8,6 +8,6 @@ It's essentially a fancy bookmark for filter views and just uses regex to get th
 
 Open and copy or load the Javascript into your favourite Userscript Manager, like Tampermonkey or Violent Monkey and change @match to point to the URL of your Stash configuration.
 
-[Alphabet Selector 1](https://github.com/elkorol/Stash-App-Script-Alphabet-Selector/blob/a5dc0ef69eac32321a14af9094748d135d8a91a0/images/1.png)
+![Alphabet Selector 1](https://github.com/elkorol/Stash-App-Script-Alphabet-Selector/blob/a5dc0ef69eac32321a14af9094748d135d8a91a0/images/1.png)
 
-[Alphabet Selector 2](https://github.com/elkorol/Stash-App-Script-Alphabet-Selector/blob/a5dc0ef69eac32321a14af9094748d135d8a91a0/images/2.png)
+![Alphabet Selector 2](https://github.com/elkorol/Stash-App-Script-Alphabet-Selector/blob/a5dc0ef69eac32321a14af9094748d135d8a91a0/images/2.png)

@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Stash Alphabet Selector
-// @namespace   https://github.com/elkorol/Stash-User-scripts
+// @namespace   https://github.com/elkorol/Stash-App-Script-Alphabet-Selector
 // @description Adds alpha numberic keyboard selector to Scenes | Galleries | Performers | Studios
 // @version     0.1.0
 // @author      Echoman

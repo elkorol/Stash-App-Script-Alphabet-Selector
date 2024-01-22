@@ -441,9 +441,12 @@
   stash.addEventListener("page:tags", function () {
     run(config2);
   });
+  stash.addEventListener("page:tag:any", function () {
+    run(config1);
+  });
   stash.addEventListener("stash:response", function () {
     const url = window.location.href.toString().trim();
-    if (url.match(/\/tags\/\d+/) || url.match(/\/studios\/\d+/)) {
+    if (url.match(/\/studios\/\d+/)) {
       run(config1);
     }
   });
